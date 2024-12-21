@@ -19,8 +19,8 @@ Taskly is a modern and user-friendly productivity app designed to help you organ
 🚀 Getting Started:
 
 	1.	Clone the repository:
- 
-    2.	Open the project in Xcode.
+ 		https://github.com/islam7r/Taskly-Turn-To-Do-Into-Ta-Da-.git
+ 	2.	Open the project in Xcode.
 	3.	Configure Firebase:
 	•	Add your GoogleService-Info.plist file to the project.
 	•	Set up Firestore and Authentication in the Firebase Console.
