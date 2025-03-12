@@ -1,4 +1,4 @@
-# Taskly: Turn Your To-Do Into Ta-Da! 🎉
+# Taskly: Turn Your To-Do Into Ta-Da! Live on the App Store!
 Taskly is a modern and user-friendly productivity app designed to help you organize, prioritize, and conquer your daily tasks and meetings. Whether you’re planning your day, tracking goals, or collaborating with others, Taskly is your ultimate companion for staying on top of everything!
 
 🌟 Features:
@@ -34,3 +34,4 @@ Taskly is a modern and user-friendly productivity app designed to help you organ
 🙌 Contributions:
 
     We welcome contributions to enhance Taskly! Feel free to fork this repo, create a pull request, or open issues for feature suggestions and bug reports.
+🚀 Live on the App Store! Download now: https://apps.apple.com/tr/app/taskly-turn-to-do-into-ta-da/id6739545439
